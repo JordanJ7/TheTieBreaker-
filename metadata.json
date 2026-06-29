@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "An interactive AI-powered decision assistant that helps map, compare, and analyze complex choices through weighted pros & cons, SWOT analysis, and dynamic decision trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
